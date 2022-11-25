@@ -1,8 +1,8 @@
 package test;
 
 public class Properties {
-	public static String username = "st1090";
-	public static String password = "Iphone@1995";
-	public static String rollno = "11593975";
-	public static String enrollClass = "5200";
+	public static String username = "your_username";
+	public static String password = "**********";
+	public static String rollno = "your_rollNo";
+	public static String enrollClass = "Subjectid";
 }
